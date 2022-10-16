@@ -49,6 +49,8 @@ import "./App.css";
 //   );
 // }
 
+// function
+
 //Q3(c)
 // const css = {
 //   color: "pink",
