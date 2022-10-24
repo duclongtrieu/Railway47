@@ -1,0 +1,23 @@
+.boder-signin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + vmin);
+  width: 250px;
+  height: 300px;
+  border: inset hotpink 3px;
+  color: #000000;
+  margin-bottom: 20px;
+  margin: 5px;
+  letter-spacing: 1px;
+}
+.button {
+  color: yellowgreen;
+  padding: 15px 60px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
