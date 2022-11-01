@@ -1,0 +1,10 @@
+.fullname {
+  color: greenyellow;
+  background-color: lightblue;
+  padding: 10px;
+}
+.fullName {
+  color: chocolate;
+  background-color: darkmagenta;
+  padding: 10px;
+}
